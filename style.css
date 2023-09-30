@@ -1,0 +1,18 @@
+body {
+    background-image: url(Stupa_Borobudur.jpg);
+}
+
+img {
+    z-index: -1;
+    position: absolute;
+    right: 20px;
+}
+
+.satu {
+    position: relative;
+    z-index: 1;
+    width: 45%;
+    background-color: white;
+    float: right;
+    margin: 5px;
+}
